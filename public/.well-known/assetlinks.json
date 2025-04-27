@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.madcortex.homies",
-    "sha256_cert_fingerprints": ["02:42:F1:11:B1:47:5F:8B:CF:C5:A2:49:16:D7:C7:F7:18:19:C6:C5:9F:44:BC:97:98:47:C5:F4:84:A3:22:AD"]
+    "sha256_cert_fingerprints": ["C1:6B:09:25:53:95:9C:9E:C4:30:47:98:D5:72:DC:93:73:A7:1E:F6:F4:D3:A8:99:5C:E0:86:A3:CC:04:A5:59"]
   }
 }]
