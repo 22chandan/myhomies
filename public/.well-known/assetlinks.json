@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.madcortex.homies",
+    "sha256_cert_fingerprints": ["C1:6B:09:25:53:95:9C:9E:C4:30:47:98:D5:72:DC:93:73:A7:1E:F6:F4:D3:A8:99:5C:E0:86:A3:CC:04:A5:59"]
+  }
+}]
